@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "lat": -38.012061,
+    "lng": -57.5835651,
+    "name": "Sucursal del sur"
+  },
+  {
+    "name": "EL PAKE",
+    "lat": -132,
+    "lng": 43,
+    "id": 2
+  },
+  {
+    "name": "EL PAKE",
+    "lat": -132,
+    "lng": 43,
+    "id": 3
+  }
+]
