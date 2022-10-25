@@ -18,7 +18,7 @@
     "url": "https://github.com/RamiroPruis/api-sucursales/issues"
   },
   "homepage": "https://github.com/RamiroPruis/api-sucursales#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^2.0.20"
   }
 }
