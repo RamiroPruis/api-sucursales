@@ -16,8 +16,7 @@ const server = http.createServer((req,res)=>{
         }else{
             errorHandler(400,"Endpoint no valido",res)
         }
-
-        const elPake = "elPake";
+asdasdasdasdasd
     }
 })
 
