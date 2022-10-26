@@ -17,6 +17,7 @@ const server = http.createServer((req,res)=>{
             errorHandler(400,"Endpoint no valido",res)
         }
 
+        const elPake = "elPake";
     }
 })
 
@@ -25,7 +26,7 @@ server.listen(PORT,()=>{
 })
 
 
-const elPake = "elPake"
+
 
 
 
