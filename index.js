@@ -16,7 +16,8 @@ const server = http.createServer((req,res)=>{
         }else{
             errorHandler(400,"Endpoint no valido",res)
         }
-
+        //Ahora estoy haciendo un cambio para la rama
+        const prueba = 10
     }
 })
 
