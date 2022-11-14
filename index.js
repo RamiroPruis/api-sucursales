@@ -16,12 +16,17 @@ const server = http.createServer((req,res)=>{
         }else{
             errorHandler(400,"Endpoint no valido",res)
         }
+        
+        console.log("se ve esto?")
     }
 })
 
 server.listen(PORT,()=>{
     console.log(`Escuchando en el puerto ${PORT}`)
 })
+
+
+
 
 
 
