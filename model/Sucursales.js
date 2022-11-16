@@ -4,11 +4,8 @@ import fs from 'fs'
  
 
 export function findAll(){
-
     const data = fs.readFileSync('./model/Sucursales.json')
     return JSON.parse(data)
-
-   
 }
 
 export function create(s) {
