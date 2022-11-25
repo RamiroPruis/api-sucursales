@@ -3,16 +3,16 @@
     "id": 1,
     "lat": -38.012061,
     "lng": -57.5835651,
-    "name": "Sucursal del sur"
+    "name": "Vacunatorio Zona B"
   },
   {
-    "name": "EL PAKE",
+    "name": "Vacunatorio Zona A",
     "lat": -38,
     "lng": -57,
     "id": 2
   },
   {
-    "name": "EL PAKE",
+    "name": "Yo te vacuno",
     "lat": -39,
     "lng": -58,
     "id": 3
